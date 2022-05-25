@@ -1,5 +1,5 @@
 # SOBRE EU MEMO!
-- 👋 Meu nome é @ze016
+- 👋 Opa, prazer meu nome é @ze016
 - 👍 Meu e-mail de contato é jose.santos01@escola.pr.gov.br 
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch.
